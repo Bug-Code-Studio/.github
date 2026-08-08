@@ -26,9 +26,7 @@ We build modern, scalable **backend systems** and **mobile applications**.
 
 ## 📦 Projects
 
-* 🔹 Coming soon...
-* 🔹 Coming soon...
-* 🔹 Coming soon...
+* 🔹 MyPetAssistant
 
 ---
 
@@ -51,8 +49,8 @@ If you are interested in collaboration or partnership, feel free to contact us.
 
 ## 📫 Contact
 
-* 📧 Email: coming soon
-* 🌐 Website: coming soon
+* 📧 Email: support@bugcodestudio.com
+* 🌐 Website: bugcodestudio.com
 
 ---
 
