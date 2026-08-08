@@ -50,7 +50,7 @@ If you are interested in collaboration or partnership, feel free to contact us.
 ## 📫 Contact
 
 * 📧 Email: support@bugcodestudio.com
-* 🌐 Website: bugcodestudio.com
+* 🌐 Website: https://bugcodestudio.com
 
 ---
 
